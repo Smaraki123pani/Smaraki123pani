@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learned **J2SE,J2EE,Frontend-HTML,CSS ,JavaScript,Bootstrap ,Backend-Spring Framework,MVC ,Spring Boot-3.3,Thymealaf Template ,Database-Mysql/Mongodb**
 
-- 👨‍💻 All of my projects are available at [http://127.0.0.1:5500/index.html](http://127.0.0.1:5500/index.html)
+- 👨‍💻 All of my projects are available at https://smaraki-pani-portfolio.netlify.app/
 
 - 💬 Ask me about **HTML,CSS,Bootstrap,Java,Javascript**
 
