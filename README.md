@@ -12,7 +12,7 @@ A Passionate Java Full Stack Developer who loves building scalable web applicati
 <p>- Contributing to Open-source and Collaborative Coding Challenges</p>
 
 <h2> 💻 What I Do </h2>
-<p>🧠 Design and develop full-stack web applications using Java, Spring Boot, HTML, CSS, JavaScript, and modern frameworks.</p>
+<p>🧠 Design and develop full-stack web applications using <b>Java, Spring Boot, HTML, CSS, JavaScript, and modern frameworks</b>.</p>
 <p>🗃️ Work with relational and NoSQL databases like MySQL and MongoDB.</p>
 <p>🌐 Create RESTful APIs and integrate front-end and back-end components.</p>
 <p>🔒 Implement authentication and security using Spring Security.</p>
