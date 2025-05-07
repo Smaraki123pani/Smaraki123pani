@@ -1,6 +1,6 @@
 <h1 align="center">👋 Hi there, I'm Smaraki Pani</h1>
 <h3 align="center">
-A Passionate Java Full Stack Developer who loves building scalable web applications with elegant and efficient code. I enjoy bringing ideas to life through clean, responsive, and user-friendly interfaces, while ensuring robust and secure backend systems.</h3>
+A Passionate Java Full Stack Developer who Loves Building Scalable Web Applications with Elegant and Efficient Code. I Enjoy Bringing Ideas to Life through Clean, Responsive, and User-friendly Interfaces, while Ensuring Robust and Secure Backend Systems.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=smaraki123pani&label=Profile%20views&color=0e75b6&style=flat" alt="smaraki123pani" /> </p>
 
@@ -21,27 +21,27 @@ A Passionate Java Full Stack Developer who loves building scalable web applicati
 <h2>🌱 I’m currently learning</h2>
   <h3>🛠️ Backend : </h3>
   <p><b>Java • J2SE,J2EE • Oops Concept</b></p>
-  <p><b><i>Frameworks</i></i></b>- <b>Spring Framework, Spring Boot-3.3, Spring MVC, Spring Security</b></p>
-  <p><b>API Design</b>- <b>REST API, Postman</b></p>
-  <p><b>Build Tools</b>- <b>Maven, Gradle</b></p>
-  <p><b>Authentication</b>-	<b>JWT, OAuth2, Session-based Auth</b></p>
+  <p><i>Frameworks</i>- <b>Spring Framework, Spring Boot-3.3, Spring MVC, Spring Security</b></p>
+  <p><i>API Design</i>- <b>REST API, Postman</b></p>
+  <p><i>Build Tools</i>- <b>Maven, Gradle</b></p>
+  <p><i>Authentication</i>-	<b>JWT, OAuth2, Session-based Auth</b></p>
   
   <h3>🖥️ Frontend : </h3>
   <p><b>HTML5 • CSS3 • JavaScript/ES6+</b></p>
-  <p><b>Frameworks & Libraries</b>- <b>Thymeleaf, Bootstrap, React.js</b></p>
-  <p><b>Package Manager</b>- <b>npm, yarn</b></p>
-  <p><b>Responsive Design</b>- <b>Media Queries, Flexbox, Grid</b></p>
+  <p><i>Frameworks & Libraries</i>- <b>Thymeleaf, Bootstrap, React.js</b></p>
+  <p><i>Package Manager</i>- <b>npm, yarn</b></p>
+  <p><i>Responsive Design</i>- <b>Media Queries, Flexbox, Grid</b></p>
   
   <h3>🗃️ Database : </h3>
   <p><b>MySQL • MongoDB</b></p>
-  <p><b>ORM Tools</b>-	<b>JPA, Hibernate</b></p>
+  <p><i>ORM Tools</i>-	<b>JPA, Hibernate</b></p>
   
   <h3>⚙️ Other Essential Tools : </h3>
-  <p><b>Deployment</b>- <b>Netlify</b></p>
-  <p><b>Testing</b>-	<b>JUnit, Mockito Unit</b></p>
-  <p><b>Development Tools</b>-	<b>VS Code, IntelliJ IDEA, Eclipse	IDEs for coding</b></p>
-  <p><b>API Documentation</b>-	<b>Swagger, OpenAPI</b></p>
-  <p><b>Version Control</b>-  <b>Git & GitHub</b></p>
+  <p><i>Deployment</i>- <b>Netlify</b></p>
+  <p><i>Testing</i>-	<b>JUnit, Mockito Unit</b></p>
+  <p><i>Development Tools</i>-	<b>VS Code, IntelliJ IDEA, Eclipse	IDEs for coding</b></p>
+  <p><i>API Documentation</i>-	<b>Swagger, OpenAPI</b></p>
+  <p><i>Version Control</i>-  <b>Git & GitHub</b></p>
 
   <h2>🧭 Navigate My Works</h2>
 <p>👨‍💻 All of my projects are available at https://smaraki-pani-portfolio.netlify.app/
