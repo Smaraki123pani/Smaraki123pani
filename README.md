@@ -5,37 +5,43 @@ A Passionate Java Full Stack Developer who loves building scalable web applicati
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=smaraki123pani&label=Profile%20views&color=0e75b6&style=flat" alt="smaraki123pani" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=smaraki123pani" alt="smaraki123pani" /></a> </p>
+
+<h2>🛠️ Currently Working On</h2>
+<p>- Enhancing my Full-stack projects portfolio</p>
+<p>- Exploring advanced Spring features and front-end frameworks</p>
+<p>- Contributing to open-source and collaborative coding challenges</p>
+
 <h2> 💻 What I Do </h2>
 <p>🧠 Design and develop full-stack web applications using Java, Spring Boot, HTML, CSS, JavaScript, and modern frameworks.</p>
 <p>🗃️ Work with relational and NoSQL databases like MySQL and MongoDB.</p>
 <p>🌐 Create RESTful APIs and integrate front-end and back-end components.</p>
 <p>🔒 Implement authentication and security using Spring Security.</p>
-<p>🛠️ Utilize tools like Git, GitHub, Maven, and Postman for version control, collaboration, and testing.</p>
+<p>⚙️ Utilize tools like Git, GitHub, Maven, and Postman for version control, collaboration, and testing.</p>
 
 <h2>🌱 I’m currently learning</h2>
-  <h3>Backend : </h3>
-  Java • J2SE,J2EE • Oops Concept
-  Frameworks- Spring Framework • spring Boot-3.3 • Spring MVC • Spring Security
-  API Design- REST API • Postman
-  Build Tools- Maven • Gradle
-  Authentication-	JWT • OAuth2 • Session-based Auth
+  <h3>🛠️ Backend : </h3>
+  <p>Java • J2SE,J2EE • Oops Concept</p>
+  <p>Frameworks- Spring Framework • spring Boot-3.3 • Spring MVC • Spring Security</p>
+  <p>API Design- REST API • Postman</p>
+  <p>Build Tools- Maven • Gradle</p>
+ <p>Authentication-	JWT • OAuth2 • Session-based Auth</p>
   
-  <h3>Frontend : </h3>
-  HTML5 • CSS3 • JavaScript/ES6+
-  Frameworks & Libraries- Thymeleaf • Bootstrap • React.js
-  Package Manager- npm • yarn
-  Responsive Design- Media Queries • Flexbox • Grid
+  <h3>🖥️ Frontend : </h3>
+  <p>HTML5 • CSS3 • JavaScript/ES6+</p>
+  <p>Frameworks & Libraries- Thymeleaf • Bootstrap • React.js</p>
+  <p>Package Manager- npm • yarn</p>
+  <p>Responsive Design- Media Queries • Flexbox • Grid</p>
   
-  <h3>Database : </h3>
-  MySQL • MongoDB
-  ORM Tools-	JPA • Hibernate
+  <h3>🗃️ Database : </h3>
+  <p>MySQL • MongoDB</p>
+  <p>ORM Tools-	JPA • Hibernate</p>
   
-  <h3>Other Essential Tools : </h3>
-  Deployment- Netlify
-  Testing-	JUnit • Mockito	Unit 
-  Development Tools-	VS Code • IntelliJ IDEA • Eclipse	IDEs for coding
-  API Documentation-	Swagger • OpenAPI
-  Version Control-  Git & GitHub** 
+  <h3>⚙️ Other Essential Tools : </h3>
+  <p>Deployment- Netlify</p>
+  <p>Testing-	JUnit • Mockito	Unit </p>
+  <p>Development Tools-	VS Code • IntelliJ IDEA • Eclipse	IDEs for coding</p>
+  <p>API Documentation-	Swagger • OpenAPI</p>
+  <p>Version Control-  Git & GitHub</p>
   
 <h2> 📈 Goals </h2>
   <p> Keep learning and exploring modern web technologies.</p>
