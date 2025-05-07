@@ -52,7 +52,7 @@ A Passionate Java Full Stack Developer who loves building scalable web applicati
 <p>👨‍💻 All of my projects are available at https://smaraki-pani-portfolio.netlify.app/
 <p>💬 Ask me about <b>Java, Oops Concept, Spring Framework, HTML, CSS, Javascript, Bootstrap, MySQL, MongoDB, Git, Github.</b>
 <p>📫 How to reach me <b>smarakipani123@gmail.com</b>
-<p>📄 Know about my experiences https://drive.google.com/</p>
+<p>📄 Know about my experiences https://drive.google.com/file/d/18eVYUVpvr_GSzmclowltBSe7yosgH9wV/view?usp=drivesdk</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
