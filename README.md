@@ -21,27 +21,27 @@ A Passionate Java Full Stack Developer who loves building scalable web applicati
 <h2>🌱 I’m currently learning</h2>
   <h3>🛠️ Backend : </h3>
   <p><b>Java • J2SE,J2EE • Oops Concept</b></p>
-  <p><b>Frameworks</b>- Spring Framework • Spring Boot-3.3 • Spring MVC • Spring Security</p>
-  <p><b>API Design</b>- REST API • Postman</p>
-  <p><b>Build Tools</b>- Maven • Gradle</p>
-  <p><b>Authentication</b>-	JWT • OAuth2 • Session-based Auth</p>
+  <p><b><i>Frameworks</i></i></b>- <b>Spring Framework, Spring Boot-3.3, Spring MVC, Spring Security</b></p>
+  <p><b>API Design</b>- <b>REST API, Postman</b></p>
+  <p><b>Build Tools</b>- <b>Maven, Gradle</b></p>
+  <p><b>Authentication</b>-	<b>JWT, OAuth2, Session-based Auth</b></p>
   
   <h3>🖥️ Frontend : </h3>
   <p><b>HTML5 • CSS3 • JavaScript/ES6+</b></p>
-  <p><b>Frameworks & Libraries</b>- Thymeleaf • Bootstrap • React.js</p>
-  <p><b>Package Manager</b>- npm • yarn</p>
-  <p><b>Responsive Design</b>- Media Queries • Flexbox • Grid</p>
+  <p><b>Frameworks & Libraries</b>- <b>Thymeleaf, Bootstrap, React.js</b></p>
+  <p><b>Package Manager</b>- <b>npm, yarn</b></p>
+  <p><b>Responsive Design</b>- <b>Media Queries, Flexbox, Grid</b></p>
   
   <h3>🗃️ Database : </h3>
   <p><b>MySQL • MongoDB</b></p>
-  <p><b>ORM Tools</b>-	JPA • Hibernate</p>
+  <p><b>ORM Tools</b>-	<b>JPA, Hibernate</b></p>
   
   <h3>⚙️ Other Essential Tools : </h3>
-  <p><b>Deployment</b>- Netlify</p>
-  <p><b>Testing</b>-	JUnit • Mockito	Unit </p>
-  <p><b>Development Tools</b>-	VS Code • IntelliJ IDEA • Eclipse	IDEs for coding</p>
-  <p><b>API Documentation</b>-	Swagger • OpenAPI</p>
-  <p><b>Version Control</b>-  Git & GitHub</p>
+  <p><b>Deployment</b>- <b>Netlify</b></p>
+  <p><b>Testing</b>-	<b>JUnit, Mockito Unit</b></p>
+  <p><b>Development Tools</b>-	<b>VS Code, IntelliJ IDEA, Eclipse	IDEs for coding</b></p>
+  <p><b>API Documentation</b>-	<b>Swagger, OpenAPI</b></p>
+  <p><b>Version Control</b>-  <b>Git & GitHub</b></p>
 
   <h2>🧭 Navigate My Works</h2>
 <p>👨‍💻 All of my projects are available at https://smaraki-pani-portfolio.netlify.app/
@@ -49,7 +49,7 @@ A Passionate Java Full Stack Developer who loves building scalable web applicati
 <p>📫 How to reach me <b>smarakipani123@gmail.com</b>
 <p>📄 Know about my experiences https://drive.google.com/file/d/18eVYUVpvr_GSzmclowltBSe7yosgH9wV/view?usp=drivesdk</p>
   
-<h2> align="left">Languages and Tools:</h2>
+<h2>Languages and Tools:</h2>
 <p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.gatsbyjs.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gatsbyjs/gatsbyjs-icon.svg" alt="gatsby" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
 
 <h2> 📈 Goals </h2>
