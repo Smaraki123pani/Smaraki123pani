@@ -13,45 +13,45 @@ A Passionate Java Full Stack Developer who loves building scalable web applicati
 
 <h2> 💻 What I Do </h2>
 <p>🧠 Design and develop full-stack web applications using <b>Java, Spring Boot, HTML, CSS, JavaScript, and modern frameworks</b>.</p>
-<p>🗃️ Work with relational and NoSQL databases like MySQL and MongoDB.</p>
+<p>🗃️ Work with relational and NoSQL databases like <b>MySQL and MongoDB</b>.</p>
 <p>🌐 Create RESTful APIs and integrate front-end and back-end components.</p>
-<p>🔒 Implement authentication and security using Spring Security.</p>
-<p>⚙️ Utilize tools like Git, GitHub, Maven, and Postman for version control, collaboration, and testing.</p>
+<p>🔒 Implement authentication and security using <b>Spring Security</b>.</p>
+<p>⚙️ Utilize tools like <b>Git, GitHub, Maven, and Postman for version control, collaboration, and testing</b>.</p>
 
 <h2>🌱 I’m currently learning</h2>
   <h3>🛠️ Backend : </h3>
-  <p>**Java • J2SE,J2EE • Oops Concept**</p>
-  <p>**Frameworks**- Spring Framework • Spring Boot-3.3 • Spring MVC • Spring Security</p>
-  <p>**API Design**- REST API • Postman</p>
-  <p>**Build Tools**- Maven • Gradle</p>
- <p>**Authentication**-	JWT • OAuth2 • Session-based Auth</p>
+  <p><b>Java • J2SE,J2EE • Oops Concept</b></p>
+  <p><b>Frameworks</b>- Spring Framework • Spring Boot-3.3 • Spring MVC • Spring Security</p>
+  <p><b>API Design</b>- REST API • Postman</p>
+  <p><b>Build Tools</b>- Maven • Gradle</p>
+  <p><b>Authentication</b>-	JWT • OAuth2 • Session-based Auth</p>
   
   <h3>🖥️ Frontend : </h3>
-  <p>**HTML5 • CSS3 • JavaScript/ES6+**</p>
-  <p>**Frameworks & Libraries**- Thymeleaf • Bootstrap • React.js</p>
-  <p>**Package Manager**- npm • yarn</p>
-  <p>**Responsive Design**- Media Queries • Flexbox • Grid</p>
+  <p><b>HTML5 • CSS3 • JavaScript/ES6+</b></p>
+  <p><b>Frameworks & Libraries</b>- Thymeleaf • Bootstrap • React.js</p>
+  <p><b>Package Manager</b>- npm • yarn</p>
+  <p><b>Responsive Design</b>- Media Queries • Flexbox • Grid</p>
   
   <h3>🗃️ Database : </h3>
-  <p>**MySQL • MongoDB**</p>
-  <p>**ORM Tools**-	JPA • Hibernate</p>
+  <p><b>MySQL • MongoDB</b></p>
+  <p><b>ORM Tools</b>-	JPA • Hibernate</p>
   
   <h3>⚙️ Other Essential Tools : </h3>
-  <p>**Deployment**- Netlify</p>
-  <p>**Testing**-	JUnit • Mockito	Unit </p>
-  <p>**Development Tools**-	VS Code • IntelliJ IDEA • Eclipse	IDEs for coding</p>
-  <p>**API Documentation**-	Swagger • OpenAPI</p>
-  <p>**Version Control**-  Git & GitHub</p>
+  <p><b>Deployment</b>- Netlify</p>
+  <p><b>Testing</b>-	JUnit • Mockito	Unit </p>
+  <p><b>Development Tools</b>-	VS Code • IntelliJ IDEA • Eclipse	IDEs for coding</p>
+  <p><b>API Documentation</b>-	Swagger • OpenAPI</p>
+  <p><b>Version Control</b>-  Git & GitHub</p>
   
 <h2> 📈 Goals </h2>
   <p>- Keep learning and exploring modern web technologies.</p>
   <p>- Collaborate on open-source projects and grow within the developer community.</p>
   <p>- Build impactful solutions that improve user experience and solve real-world problems.</p>
   
-<h2>🧭 Navigate My Work</h2>
+<h2>🧭 Navigate My Works</h2>
 <p> 👨‍💻 All of my projects are available at [https://smaraki-pani-portfolio.netlify.app/](https://smaraki-pani-portfolio.netlify.app/)</p>
-<p> 💬 Ask me about **Java, Oops Concept, Spring Framework, HTML, CSS, Javascript, Bootstrap, MySQL, MongoDB, Git, Github.**</p>
-<p>📫 How to reach me **smarakipani123@gmail.com**</p>
+<p> 💬 Ask me about <b>Java, Oops Concept, Spring Framework, HTML, CSS, Javascript, Bootstrap, MySQL, MongoDB, Git, Github.</b></p>
+<p>📫 How to reach me <b>smarakipani123@gmail.com</b></p>
 <p> 📄 Know about my experiences [https://drive.google.com/file/d/1NU1TfhApktpaCKRf2-Q_yTXQJ6LbvFT3/view?usp=drivesdk](https://drive.google.com/file/d/1NU1TfhApktpaCKRf2-Q_yTXQJ6LbvFT3/view?usp=drivesdk)</p>
 
 <h3 align="left">Connect with me:</h3>
