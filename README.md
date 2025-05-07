@@ -49,10 +49,10 @@ A Passionate Java Full Stack Developer who loves building scalable web applicati
   <p>- Build impactful solutions that improve user experience and solve real-world problems.</p>
   
 <h2>🧭 Navigate My Works</h2>
-<p> 👨‍💻 All of my projects are available at [https://smaraki-pani-portfolio.netlify.app/](https://smaraki-pani-portfolio.netlify.app/)</p>
-<p> 💬 Ask me about <b>Java, Oops Concept, Spring Framework, HTML, CSS, Javascript, Bootstrap, MySQL, MongoDB, Git, Github.</b></p>
-<p>📫 How to reach me <b>smarakipani123@gmail.com</b></p>
-<p> 📄 Know about my experiences [https://drive.google.com/file/d/1NU1TfhApktpaCKRf2-Q_yTXQJ6LbvFT3/view?usp=drivesdk](https://drive.google.com/file/d/1NU1TfhApktpaCKRf2-Q_yTXQJ6LbvFT3/view?usp=drivesdk)</p>
+- 👨‍💻 All of my projects are available at [https://smaraki-pani-portfolio.netlify.app/](https://smaraki-pani-portfolio.netlify.app/)
+- 💬 Ask me about **Java, Oops Concept, Spring Framework, HTML, CSS, Javascript, Bootstrap, MySQL, MongoDB, Git, Github.**
+- 📫 How to reach me **smarakipani123@gmail.com**
+- 📄 Know about my experiences [https://drive.google.com/file/d/1NU1TfhApktpaCKRf2-Q_yTXQJ6LbvFT3/view?usp=drivesdk](https://drive.google.com/file/d/1NU1TfhApktpaCKRf2-Q_yTXQJ6LbvFT3/view?usp=drivesdk)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
