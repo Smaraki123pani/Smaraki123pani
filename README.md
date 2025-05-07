@@ -1,47 +1,46 @@
 <h1 align="center">👋 Hi there, I'm Smaraki Pani</h1>
 <h3 align="center">
-I'm a Passionate Java Full Stack Developer who loves building scalable web applications with elegant and efficient code. I enjoy bringing ideas to life through clean, responsive, and user-friendly interfaces, while ensuring robust and secure backend systems.</h3>
+A Passionate Java Full Stack Developer who loves building scalable web applications with elegant and efficient code. I enjoy bringing ideas to life through clean, responsive, and user-friendly interfaces, while ensuring robust and secure backend systems.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=smaraki123pani&label=Profile%20views&color=0e75b6&style=flat" alt="smaraki123pani" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=smaraki123pani" alt="smaraki123pani" /></a> </p>
+<h2> 💻 What I Do </h2>
+<p>🧠 Design and develop full-stack web applications using Java, Spring Boot, HTML, CSS, JavaScript, and modern frameworks.</p>
+<p>🗃️ Work with relational and NoSQL databases like MySQL and MongoDB.</p>
+<p>🌐 Create RESTful APIs and integrate front-end and back-end components.</p>
+<p>🔒 Implement authentication and security using Spring Security.</p>
+<p>🛠️ Utilize tools like Git, GitHub, Maven, and Postman for version control, collaboration, and testing.</p>
 
-- 💻 What I Do
-🧠 Design and develop full-stack web applications using Java, Spring Boot, HTML, CSS, JavaScript, and modern frameworks.
-🗃️ Work with relational and NoSQL databases like MySQL and MongoDB.
-🌐 Create RESTful APIs and integrate front-end and back-end components.
-🔒 Implement authentication and security using Spring Security.
-🛠️ Utilize tools like Git, GitHub, Maven, and Postman for version control, collaboration, and testing.
-
-- 🌱 I’m currently learning
-  ** Backend -
+<h2>🌱 I’m currently learning</h2>
+  <h3>Backend : </h3>
   Java • J2SE,J2EE • Oops Concept
   Frameworks- Spring Framework • spring Boot-3.3 • Spring MVC • Spring Security
   API Design- REST API • Postman
   Build Tools- Maven • Gradle
   Authentication-	JWT • OAuth2 • Session-based Auth
   
-  Frontend -
+  <h3>Frontend : </h3>
   HTML5 • CSS3 • JavaScript/ES6+
   Frameworks & Libraries- Thymeleaf • Bootstrap • React.js
   Package Manager- npm • yarn
   Responsive Design- Media Queries • Flexbox • Grid
   
-  Database -
+  <h3>Database : </h3>
   MySQL • MongoDB
   ORM Tools-	JPA • Hibernate
   
-  Other Essential Tools-
+  <h3>Other Essential Tools : </h3>
   Deployment- Netlify
   Testing-	JUnit • Mockito	Unit 
   Development Tools-	VS Code • IntelliJ IDEA • Eclipse	IDEs for coding
   API Documentation-	Swagger • OpenAPI
   Version Control-  Git & GitHub** 
   
-- 📈 Goals
-  . Keep learning and exploring modern web technologies.
-  . Collaborate on open-source projects and grow within the developer community.
-  . Build impactful solutions that improve user experience and solve real-world problems.
+<h2> 📈 Goals </h2>
+  <p> Keep learning and exploring modern web technologies.</p>
+  <p> Collaborate on open-source projects and grow within the developer community.</p>
+  <p>Build impactful solutions that improve user experience and solve real-world problems.</p>
 
 - 👨‍💻 All of my projects are available at [https://smaraki-pani-portfolio.netlify.app/](https://smaraki-pani-portfolio.netlify.app/)
 
