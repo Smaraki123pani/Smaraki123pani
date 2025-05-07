@@ -7,9 +7,9 @@ A Passionate Java Full Stack Developer who loves building scalable web applicati
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=smaraki123pani" alt="smaraki123pani" /></a> </p>
 
 <h2>🛠️ Currently Working On</h2>
-<p>- Enhancing my Full-stack projects portfolio</p>
-<p>- Exploring advanced Spring features and front-end frameworks</p>
-<p>- Contributing to open-source and collaborative coding challenges</p>
+<p>- Enhancing my Full-stack Projects Portfolio</p>
+<p>- Exploring Advanced Spring features and Front-end Frameworks</p>
+<p>- Contributing to Open-source and Collaborative Coding Challenges</p>
 
 <h2> 💻 What I Do </h2>
 <p>🧠 Design and develop full-stack web applications using Java, Spring Boot, HTML, CSS, JavaScript, and modern frameworks.</p>
@@ -20,41 +20,39 @@ A Passionate Java Full Stack Developer who loves building scalable web applicati
 
 <h2>🌱 I’m currently learning</h2>
   <h3>🛠️ Backend : </h3>
-  <p>Java • J2SE,J2EE • Oops Concept</p>
-  <p>Frameworks- Spring Framework • spring Boot-3.3 • Spring MVC • Spring Security</p>
-  <p>API Design- REST API • Postman</p>
-  <p>Build Tools- Maven • Gradle</p>
- <p>Authentication-	JWT • OAuth2 • Session-based Auth</p>
+  <p>**Java • J2SE,J2EE • Oops Concept**</p>
+  <p>**Frameworks**- Spring Framework • Spring Boot-3.3 • Spring MVC • Spring Security</p>
+  <p>**API Design**- REST API • Postman</p>
+  <p>**Build Tools**- Maven • Gradle</p>
+ <p>**Authentication**-	JWT • OAuth2 • Session-based Auth</p>
   
   <h3>🖥️ Frontend : </h3>
-  <p>HTML5 • CSS3 • JavaScript/ES6+</p>
-  <p>Frameworks & Libraries- Thymeleaf • Bootstrap • React.js</p>
-  <p>Package Manager- npm • yarn</p>
-  <p>Responsive Design- Media Queries • Flexbox • Grid</p>
+  <p>**HTML5 • CSS3 • JavaScript/ES6+**</p>
+  <p>**Frameworks & Libraries**- Thymeleaf • Bootstrap • React.js</p>
+  <p>**Package Manager**- npm • yarn</p>
+  <p>**Responsive Design**- Media Queries • Flexbox • Grid</p>
   
   <h3>🗃️ Database : </h3>
-  <p>MySQL • MongoDB</p>
-  <p>ORM Tools-	JPA • Hibernate</p>
+  <p>**MySQL • MongoDB**</p>
+  <p>**ORM Tools**-	JPA • Hibernate</p>
   
   <h3>⚙️ Other Essential Tools : </h3>
-  <p>Deployment- Netlify</p>
-  <p>Testing-	JUnit • Mockito	Unit </p>
-  <p>Development Tools-	VS Code • IntelliJ IDEA • Eclipse	IDEs for coding</p>
-  <p>API Documentation-	Swagger • OpenAPI</p>
-  <p>Version Control-  Git & GitHub</p>
+  <p>**Deployment**- Netlify</p>
+  <p>**Testing**-	JUnit • Mockito	Unit </p>
+  <p>**Development Tools**-	VS Code • IntelliJ IDEA • Eclipse	IDEs for coding</p>
+  <p>**API Documentation**-	Swagger • OpenAPI</p>
+  <p>**Version Control**-  Git & GitHub</p>
   
 <h2> 📈 Goals </h2>
-  <p> Keep learning and exploring modern web technologies.</p>
-  <p> Collaborate on open-source projects and grow within the developer community.</p>
-  <p>Build impactful solutions that improve user experience and solve real-world problems.</p>
-
-- 👨‍💻 All of my projects are available at [https://smaraki-pani-portfolio.netlify.app/](https://smaraki-pani-portfolio.netlify.app/)
-
-- 💬 Ask me about **Java, Oops Concept, Spring Framework, HTML, CSS, Javascript,Bootstrap, MySQL, MongoDB, Git, Github**
-
-- 📫 How to reach me **smarakipani123@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/1NU1TfhApktpaCKRf2-Q_yTXQJ6LbvFT3/view?usp=drivesdk](https://drive.google.com/file/d/1NU1TfhApktpaCKRf2-Q_yTXQJ6LbvFT3/view?usp=drivesdk)
+  <p>- Keep learning and exploring modern web technologies.</p>
+  <p>- Collaborate on open-source projects and grow within the developer community.</p>
+  <p>- Build impactful solutions that improve user experience and solve real-world problems.</p>
+  
+<h2>🧭 Navigate My Work</h2>
+<p> 👨‍💻 All of my projects are available at [https://smaraki-pani-portfolio.netlify.app/](https://smaraki-pani-portfolio.netlify.app/)</p>
+<p> 💬 Ask me about **Java, Oops Concept, Spring Framework, HTML, CSS, Javascript, Bootstrap, MySQL, MongoDB, Git, Github.**</p>
+<p>📫 How to reach me **smarakipani123@gmail.com**</p>
+<p> 📄 Know about my experiences [https://drive.google.com/file/d/1NU1TfhApktpaCKRf2-Q_yTXQJ6LbvFT3/view?usp=drivesdk](https://drive.google.com/file/d/1NU1TfhApktpaCKRf2-Q_yTXQJ6LbvFT3/view?usp=drivesdk)</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
